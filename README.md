@@ -10,7 +10,7 @@
 
 ### 🎓 Certifications
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)]([https://www.comptia.org/certifications/security](https://www.credly.com/badges/ad8e12af-d61c-4e82-8f6e-231069bd2df0))  
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](https://www.credly.com/badges/ad8e12af-d61c-4e82-8f6e-231069bd2df0)  
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
 
 ---
